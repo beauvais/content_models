@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" viewBox="-32 61 625 2504" width="625" height="2504">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="#93a1a1">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="#93a1a1">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Replica Std" font-size="12" panose-1="2 11 5 4 2 1 1 2 1 2" units-per-em="1000" underline-position="-140" underline-thickness="20" slope="0" x-height="500" cap-height="700" ascent="900.0018" descent="-220.00045" font-weight="400">
+      <font-face-src>
+        <font-face-name name="ReplicaStd"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Replica Std" font-size="13" panose-1="2 11 5 4 2 1 1 2 1 2" units-per-em="1000" underline-position="-140" underline-thickness="20" slope="0" x-height="500" cap-height="700" ascent="900.0018" descent="-220.00045" font-weight="400">
+      <font-face-src>
+        <font-face-name name="ReplicaStd"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Avenir Next" font-size="14" panose-1="2 11 5 3 2 2 2 2 2 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="468" cap-height="708" ascent="1e3" descent="-365.9973" font-weight="400">
+      <font-face-src>
+        <font-face-name name="AvenirNext-Regular"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Avenir Next" font-size="18.921" panose-1="2 11 8 3 2 2 2 2 2 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="498" cap-height="708" ascent="1e3" descent="-365.9973" font-weight="700">
+      <font-face-src>
+        <font-face-name name="AvenirNext-Bold"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Avenir Next" font-size="18.920872" panose-1="2 11 8 3 2 2 2 2 2 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="498" cap-height="708" ascent="1e3" descent="-365.9973" font-weight="700">
+      <font-face-src>
+        <font-face-name name="AvenirNext-Bold"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica Neue" font-size="18" panose-1="2 11 6 4 2 2 2 2 2 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="975.0061" descent="-216.99524" font-weight="500">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue-Medium"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Replica Std" font-size="10" panose-1="2 11 5 4 2 1 1 2 1 2" units-per-em="1000" underline-position="-140" underline-thickness="20" slope="0" x-height="500" cap-height="700" ascent="900.0018" descent="-220.00045" font-weight="400">
+      <font-face-src>
+        <font-face-name name="ReplicaStd"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Avenir Next" font-size="51.4289" panose-1="2 11 8 3 2 2 2 2 2 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="498" cap-height="708" ascent="1e3" descent="-365.9973" font-weight="700">
+      <font-face-src>
+        <font-face-name name="AvenirNext-Bold"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.10.2 
+    <dc:date>2019-07-11 20:33:53 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" stroke-opacity="1" fill="none" stroke-dasharray="none" fill-opacity="1" stroke="none">
+    <title>Professional Program</title>
+    <rect fill="#022b36" x="-32" y="61" width="625" height="2504"/>
+    <g id="Canvas_1: content model">
+      <title>content model</title>
+      <g id="Line_237">
+        <line x1="267" y1="877.4346" x2="312.1" y2="877.4346" marker-end="url(#FilledArrow_Marker)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_236">
+        <line x1="384" y1="877.4346" x2="439.01694" y2="877.4346" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_230">
+        <path d="M 57.92817 1228.4346 C 62.04731 1204.061 67.47493 1174.1417 73.48801 1146.6603 C 86.63038 1086.596 81.20079 1111.1303 96.38946 1066.4219 C 111.57812 1021.7135 92.93084 1042.3912 127.10041 988.8502 C 143.42345 963.2732 164.66667 936.7074 182.40428 915.9342" marker-end="url(#FilledArrow_Marker)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_229">
+        <line x1="267" y1="659.39045" x2="312.8695" y2="678.6152" marker-end="url(#FilledArrow_Marker)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_224">
+        <path d="M 55.50189 1228.4346 C 58.542474 1201.3395 62.50227 1166.884 66.48179 1134.62 C 74.76541 1067.4605 71.4591 1094.1285 79.23921 1041.3773 C 87.01933 988.6262 84.83228 1000.9524 93.94377 948.4208 C 103.05527 895.8892 100.1785 908.0719 111.40065 855.9533 C 122.62279 803.8346 103.63847 826.0783 133.55529 764.4542 C 148.70424 733.2496 169.90728 701.3345 187.14888 677.42955" marker-end="url(#FilledArrow_Marker)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_216">
+        <line x1="384" y1="1072.4346" x2="429.11694" y2="1072.4346" marker-end="url(#FilledArrow_Marker)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_214">
+        <line x1="267" y1="1101.5228" x2="312.6219" y2="1086.0919" marker-end="url(#FilledArrow_Marker)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_212">
+        <line x1="267" y1="1764.9052" x2="312.10428" y2="1766.2318" marker-end="url(#FilledArrow_Marker)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_210">
+        <line x1="267" y1="2498.9052" x2="313.2505" y2="2523.3907" marker-end="url(#FilledArrow_Marker)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_208">
+        <line x1="384" y1="2544.4346" x2="429.11694" y2="2544.4346" marker-end="url(#FilledArrow_Marker)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_206">
+        <line x1="384" y1="1767.4346" x2="429.11694" y2="1767.4346" marker-end="url(#FilledArrow_Marker)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_200">
+        <line x1="267" y1="1677.4346" x2="293.1" y2="1677.4346" marker-end="url(#FilledArrow_Marker)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_198">
+        <line x1="267" y1="1517.4346" x2="293.1" y2="1517.4346" marker-end="url(#FilledArrow_Marker)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_195">
+        <path d="M 366.5509 1354.9346 C 375.1728 1365.2725 388.7047 1379.19 409.30064 1395.3817 C 425.54197 1408.15 443.42237 1420.1679 459.64855 1430.3165" marker-end="url(#FilledArrow_Marker)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_193">
+        <line x1="402.126" y1="1349.0292" x2="453.9365" y2="1363.3667" marker-end="url(#FilledArrow_Marker)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_191">
+        <line x1="402.8412" y1="1324.1498" x2="453.33514" y2="1312.7172" marker-end="url(#FilledArrow_Marker)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_189">
+        <line x1="379.72845" y1="1315.9346" x2="463.96705" y2="1254.4775" marker-end="url(#FilledArrow_Marker)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_188">
+        <path d="M 364.2892 1315.9346 C 375.23323 1298.0324 394.11056 1269.3444 420.81734 1236.4228 C 439.1248 1213.8552 457.61257 1193.6111 473.1101 1177.5296" marker-end="url(#FilledArrow_Marker)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_186">
+        <line x1="267" y1="1349.9787" x2="293.2386" y2="1345.5413" marker-end="url(#FilledArrow_Marker)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_184">
+        <line x1="267" y1="1278.4346" x2="293.1" y2="1278.4346" marker-end="url(#FilledArrow_Marker)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_182">
+        <line x1="267" y1="1198.4346" x2="293.1" y2="1198.4346" marker-end="url(#FilledArrow_Marker)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_178">
+        <line x1="403" y1="1014.4346" x2="429.11694" y2="1014.4346" marker-end="url(#FilledArrow_Marker)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_176">
+        <line x1="267" y1="1028.9787" x2="293.2386" y2="1024.5413" marker-end="url(#FilledArrow_Marker)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_174">
+        <line x1="403" y1="957.4346" x2="429.11694" y2="957.4346" marker-end="url(#FilledArrow_Marker)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_172">
+        <line x1="267" y1="957.4346" x2="293.1" y2="957.4346" marker-end="url(#FilledArrow_Marker)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_170">
+        <line x1="403" y1="810.4346" x2="429.11694" y2="810.4346" marker-end="url(#FilledArrow_Marker)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_168">
+        <line x1="267" y1="802.214" x2="293.14492" y2="804.7131" marker-end="url(#FilledArrow_Marker)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_163">
+        <line x1="267" y1="730.3022" x2="293.94568" y2="737.2368" marker-end="url(#FilledArrow_Marker)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_161">
+        <line x1="403" y1="752.4346" x2="429.11694" y2="752.4346" marker-end="url(#FilledArrow_Marker)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_158">
+        <line x1="403" y1="81.43457" x2="429.11694" y2="81.43457" marker-end="url(#FilledArrow_Marker)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_154">
+        <line x1="267" y1="332.43457" x2="293.1" y2="332.43457" marker-end="url(#FilledArrow_Marker)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_152">
+        <line x1="267" y1="134.55223" x2="313.00567" y2="106.13695" marker-end="url(#FilledArrow_Marker)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_150">
+        <path d="M 232.34892 2154.4346 L 267.89838 2226.2333 L 303.1877 2296.809 L 338.68808 2367.0977" marker-end="url(#FilledArrow_Marker)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_148">
+        <line x1="265.45977" y1="1940.4346" x2="314.17764" y2="1971.5997" marker-end="url(#FilledArrow_Marker)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_146">
+        <line x1="267" y1="1605.8905" x2="293.2386" y2="1610.3279" marker-end="url(#FilledArrow_Marker)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_140">
+        <line x1="263.84444" y1="448.43457" x2="315.2774" y2="414.39805" marker-end="url(#FilledArrow_Marker)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_124">
+        <path d="M 357.24514 2015.9346 C 361.30485 2033.3673 368.1743 2060.1594 377.41043 2086.513 C 392.97703 2130.9296 369.81655 2110.7411 407.94645 2153.2146 C 423.7138 2170.7782 444.23384 2188.0464 462.8797 2202.2602" marker-end="url(#FilledArrow_Marker)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_122">
+        <line x1="391.75625" y1="2015.9346" x2="457.96406" y2="2049.2467" marker-end="url(#FilledArrow_Marker)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_120">
+        <line x1="391.75625" y1="1600.9346" x2="457.96406" y2="1567.6225" marker-end="url(#FilledArrow_Marker)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_118">
+        <line x1="403" y1="1620.4346" x2="452.1" y2="1620.4346" marker-end="url(#FilledArrow_Marker)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_116">
+        <line x1="391.75625" y1="1639.9346" x2="457.96406" y2="1673.2467" marker-end="url(#FilledArrow_Marker)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_114">
+        <path d="M 70.28607 1328.4346 C 80.858 1350.8025 95.8916 1378.6452 116.14362 1407.6286 C 136.46999 1436.7184 157.94673 1461.0805 175.8336 1479.4079" marker-end="url(#FilledArrow_Marker)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_112">
+        <path d="M 95.26426 1328.4346 C 106.20831 1339.854 118.68339 1352.4305 132.17047 1365.2715 C 146.02964 1378.4668 159.04837 1390.1236 170.5298 1400.0112" marker-end="url(#FilledArrow_Marker)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_108">
+        <path d="M 63.75133 1328.4346 C 70.74545 1352.7109 79.76839 1382.42 89.27802 1409.4992 C 110.08162 1468.7388 87.24754 1434.2934 123.43182 1487.5364 C 140.56874 1512.7524 162.4607 1538.7337 180.75994 1559.0995" marker-end="url(#FilledArrow_Marker)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_106">
+        <line x1="131" y1="1317.237" x2="158.0716" y2="1330.2054" marker-end="url(#FilledArrow_Marker)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_104">
+        <path d="M 54.875224 1328.4346 C 57.47672 1353.0344 60.97941 1383.3404 65.03661 1411.2899 C 73.8688 1472.1337 70.37785 1447.1964 81.17556 1493.199 C 91.97328 1539.2015 88.61747 1528.7266 103.15 1573.668 C 117.68252 1618.6093 100.21769 1598.0694 132.47196 1651.8312 C 147.83436 1677.4375 167.73823 1703.9692 184.37245 1724.736" marker-end="url(#FilledArrow_Marker)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_102">
+        <path d="M 95.37246 1228.4346 C 106.28176 1217.0448 118.70884 1204.4839 132.14216 1191.6137 C 146.29517 1178.0539 159.57425 1166.0582 171.23577 1155.9043" marker-end="url(#FilledArrow_Marker)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_100">
+        <path d="M 56.11402 1328.4346 C 59.87905 1359.1494 64.89831 1399.9655 69.74531 1438.976 C 79.28437 1515.75 75.70912 1486.861 83.67063 1549.4287 C 91.63214 1611.9963 89.73641 1597.2794 97.84757 1659.825 C 105.95873 1722.3708 104.0233 1707.6712 112.3011 1770.2003 C 120.57891 1832.7295 118.59464 1818.0221 127.06627 1880.5383 C 135.5379 1943.0546 133.50128 1928.3884 142.20396 1990.868 C 150.90664 2053.3475 148.76462 2038.6547 157.78468 2101.0765 C 166.80473 2163.4984 164.48392 2148.852 174.04263 2211.2023 C 183.60134 2273.5527 179.35465 2247.1502 191.5247 2321.1586 C 198.13064 2361.3307 205.07106 2402.463 210.0365 2431.677" marker-end="url(#FilledArrow_Marker_2)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_98">
+        <path d="M 359.36975 408.93457 C 365.7691 423.50916 378.37224 445.1104 402.8744 469.7667 C 420.94725 487.9532 442.0841 504.37065 460.91713 517.5111" marker-end="url(#FilledArrow_Marker_2)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_96">
+        <line x1="391.75625" y1="408.93457" x2="457.96406" y2="442.2467" marker-end="url(#FilledArrow_Marker_2)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_94">
+        <line x1="403" y1="389.43457" x2="452.1" y2="389.43457" marker-end="url(#FilledArrow_Marker_2)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_92">
+        <path d="M 367.66967 369.93457 C 379.1224 355.49165 397.1917 334.0945 421.56266 309.417 C 437.59186 293.18617 453.6649 278.2522 467.7209 265.7474" marker-end="url(#FilledArrow_Marker_2)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_90">
+        <line x1="391.75625" y1="369.93457" x2="457.96406" y2="336.62246" marker-end="url(#FilledArrow_Marker_2)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_88">
+        <path d="M 374.08226 369.93457 C 390.142 353.7765 411.29753 329.4019 422.249 303.90167 C 441.35113 259.42295 394.99906 276.47977 420.42597 232.43516 C 430.64894 214.72688 447.4542 197.67952 463.8964 183.6241" marker-end="url(#FilledArrow_Marker_2)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_86">
+        <path d="M 357.2452 408.93457 C 361.3073 426.3779 368.1821 453.19146 377.4243 479.5572 C 392.9972 523.98285 369.8427 503.78556 407.96867 546.24656 C 423.7293 563.7992 444.237 581.05554 462.8738 595.26105" marker-end="url(#FilledArrow_Marker_2)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_84">
+        <path d="M 54.98514 1228.4346 C 57.676174 1202.0951 61.166465 1168.9135 64.70895 1137.9713 C 72.17948 1072.7192 69.28588 1098.9572 76.36921 1048.1099 C 83.45254 997.2626 81.62666 1009.1898 89.71145 958.4924 C 97.79624 907.7949 95.68782 919.6813 104.90662 869.1598 C 114.12541 818.6383 111.69593 830.4219 122.25164 780.1634 C 132.80734 729.9049 129.9566 741.6377 142.16577 691.7591 C 154.37494 641.8805 144.14621 664.2563 165.34712 604.1037 C 175.90366 574.15204 188.75383 543.1184 198.9962 519.50626" marker-end="url(#FilledArrow_Marker_2)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_82">
+        <path d="M 57.92855 1328.4346 C 62.04764 1352.8071 67.47511 1382.7256 73.48801 1410.2085 C 86.63038 1470.2776 81.20079 1445.7495 96.38946 1490.4646 C 111.57812 1535.1797 92.93084 1515.0726 127.10041 1568.0422 C 143.21206 1593.0184 164.11728 1618.7624 181.7134 1638.9971" marker-end="url(#FilledArrow_Marker_2)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_80">
+        <line x1="131" y1="1278.4346" x2="157.10001" y2="1278.4346" marker-end="url(#FilledArrow_Marker_2)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_78">
+        <path d="M 63.75395 1228.4346 C 70.75643 1204.133 79.79204 1174.387 89.31331 1147.283 C 110.13081 1088.0224 87.3066 1123.0436 123.48088 1069.2586 C 140.82542 1043.4702 163.03693 1016.7038 181.46087 995.8259" marker-end="url(#FilledArrow_Marker_2)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_76">
+        <path d="M 52.1595 1228.4346 C 53.437266 1200.6304 55.200285 1164.9588 57.223454 1131.4101 C 61.38572 1062.3902 59.891174 1089.4903 64.69183 1034.8106 C 69.49248 980.1309 68.19124 992.9747 74.16863 938.4036 C 80.14601 883.8326 78.53114 896.6143 85.7906 842.1876 C 93.05006 787.7608 91.08436 800.501 99.79282 746.2899 C 108.50128 692.0789 106.1316 704.728 116.52942 650.83526 C 126.92725 596.9425 124.05645 609.5076 136.4947 556.0612 C 148.93295 502.6148 137.62597 525.5366 160.43352 462.1821 C 172.0145 430.0126 186.41906 397.0597 197.79383 372.41324" marker-end="url(#FilledArrow_Marker_2)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_73">
+        <path d="M 56.984386 1328.4346 C 60.8498 1355.8597 65.84165 1390.8877 70.690895 1423.7877 C 80.7307 1491.9035 76.82119 1465.0362 85.43814 1518.8673 C 94.0551 1572.6984 91.93525 1560.0516 101.10671 1613.7989 C 110.27818 1667.546 108.00037 1654.9381 117.81127 1708.5824 C 127.62217 1762.2266 125.14875 1749.6484 135.73689 1803.1505 C 146.32502 1856.6526 143.45932 1844.1718 155.1849 1897.4322 C 166.91047 1950.6927 159.61288 1927.1198 177.12541 1991.1474 C 186.07958 2023.8847 196.30155 2057.7284 204.154 2082.9887" marker-end="url(#FilledArrow_Marker_2)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_67">
+        <path d="M 57.77451 1328.4346 C 62.02607 1355.2419 67.54343 1389.2086 73.078365 1420.9588 C 84.656 1487.372 80.11586 1460.9169 90.86632 1512.8573 C 101.61677 1564.7978 98.79647 1552.6874 111.02495 1604.2964 C 123.25343 1655.9055 119.93933 1643.903 134.02998 1695.0252 C 148.12063 1746.1473 137.2558 1724.0021 160.76163 1784.7454 C 172.45219 1814.9559 186.42501 1845.9586 197.51824 1869.4928" marker-end="url(#FilledArrow_Marker_2)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_52">
+        <line x1="391.75625" y1="2414.9346" x2="457.96406" y2="2448.2467" marker-end="url(#FilledArrow_Marker_2)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_50">
+        <line x1="403" y1="2395.4346" x2="452.1" y2="2395.4346" marker-end="url(#FilledArrow_Marker_2)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_49">
+        <line x1="391.75625" y1="2375.9346" x2="457.96406" y2="2342.6225" marker-end="url(#FilledArrow_Marker_2)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_44">
+        <path d="M 359.36826 1976.9346 C 365.76714 1962.3578 378.37034 1940.7529 402.8744 1916.0947 C 420.9466 1897.9088 442.0826 1881.4931 460.9151 1868.3544" marker-end="url(#FilledArrow_Marker_2)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_42">
+        <line x1="391.2778" y1="1976.9346" x2="458.10465" y2="1942.8907" marker-end="url(#FilledArrow_Marker_2)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_40">
+        <line x1="403" y1="1996.4346" x2="452.1" y2="1996.4346" marker-end="url(#FilledArrow_Marker_2)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_39">
+        <path d="M 359.3684 2015.9346 C 365.76734 2030.511 378.37054 2052.1157 402.8744 2076.7737 C 420.94667 2094.9596 442.08276 2111.3755 460.9153 2124.5143" marker-end="url(#FilledArrow_Marker_2)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_11">
+        <path d="M 70.40073 1228.4346 C 80.97582 1206.1231 95.98807 1178.3084 116.18179 1149.1666 C 136.82511 1119.3759 158.64771 1094.3106 176.69045 1075.5186" marker-end="url(#FilledArrow_Marker_2)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_9">
+        <line x1="131" y1="1239.6322" x2="158.0716" y2="1226.6637" marker-end="url(#FilledArrow_Marker_2)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_7">
+        <path d="M 54.1153 1228.4346 C 56.33779 1204.0304 59.380415 1174.0483 63.044424 1146.4558 C 71.04977 1086.1703 67.88823 1111.036 78.25698 1065.6407 C 88.62573 1020.2453 85.34122 1030.5126 99.64366 986.221 C 113.9461 941.9293 95.49361 962.7858 128.74125 909.3017 C 144.67402 883.6712 165.60472 856.9158 183.08426 835.9996" marker-end="url(#FilledArrow_Marker_2)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_5">
+        <path d="M 51.66948 1228.4346 C 52.710924 1199.1804 54.179095 1160.9776 55.89909 1124.7497 C 59.357776 1051.9002 58.15069 1079.8735 62.208344 1021.2932 C 66.265995 962.7128 65.1782 976.4706 70.221645 917.9748 C 75.26509 859.4791 73.91665 873.2174 80.01051 814.817 C 86.10438 756.41655 84.47789 770.1123 91.73156 711.8352 C 98.98523 653.558 97.04486 667.21086 105.61426 609.1123 C 114.18366 551.0137 111.87804 564.5999 121.97954 506.76084 C 132.08103 448.92177 129.32635 462.4441 141.27017 404.95396 C 153.21398 347.46385 142.68375 371.6913 164.1384 303.83426 C 175.3647 268.32752 189.31596 232.08546 200.0667 205.5993" marker-end="url(#FilledArrow_Marker_2)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_4">
+        <path d="M 57.18076 1228.4346 C 61.22406 1200.7749 66.51465 1165.3607 71.816075 1132.1159 C 82.74714 1063.568 78.33397 1090.535 88.58409 1036.4768 C 98.8342 982.4186 95.73059 994.9473 107.99657 941.3031 C 120.26254 887.6588 100.99888 910.5483 131.8801 847.1252 C 147.75337 814.5251 169.79784 781.1734 187.47556 756.456" marker-end="url(#FilledArrow_Marker_2)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_2">
+        <rect x="-31" y="1228.4346" width="162" height="100" fill="#dc322f"/>
+        <rect x="-31" y="1228.4346" width="162" height="100" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+        <text transform="translate(-26 1270.9546)" fill="#fdf6e3">
+          <tspan font-family="Replica Std" font-size="12" font-weight="400" fill="#fdf6e3" x="53.56" y="11">Program</tspan>
+        </text>
+      </g>
+      <g id="Graphic_6">
+        <rect x="167.00001" y="134.43457" width="99.99998" height="62" fill="#cb4b16"/>
+        <rect x="167.00001" y="134.43457" width="99.99998" height="62" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".74999985"/>
+        <text transform="translate(172 157.41457)" fill="#fdf6e3">
+          <tspan font-family="Replica Std" font-size="13" font-weight="400" fill="#fdf6e3" x="32.38999" y="12">Title</tspan>
+        </text>
+      </g>
+      <g id="Graphic_151">
+        <title>Tag : Violet</title>
+        <path d="M 313 61.93457 L 393 61.93457 C 398.52285 61.93457 403 66.411724 403 71.93457 L 403 90.93457 C 403 96.45742 398.52285 100.93457 393 100.93457 L 313 100.93457 C 307.47715 100.93457 303 96.45742 303 90.93457 L 303 71.93457 C 303 66.411724 307.47715 61.93457 313 61.93457 Z" fill="#6c71c4"/>
+        <text transform="translate(313 71.43457)" fill="#fdf7e3">
+          <tspan font-family="Avenir Next" font-size="14" font-weight="400" fill="#fdf7e3" x="27.113" y="14">Text</tspan>
+        </text>
+      </g>
+      <g id="Graphic_162">
+        <title>Heading : Secondary text</title>
+        <text transform="translate(444.27274 739.4346)" fill="#839496">
+          <tspan font-family="Avenir Next" font-size="18.921" font-weight="700" fill="#839496" x="0" y="19">50 Words (hard)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_157">
+        <title>Heading : Secondary text</title>
+        <text transform="translate(444.27274 68.43457)" fill="#839496">
+          <tspan font-family="Avenir Next" font-size="18.920872" font-weight="700" fill="#839496" x="0" y="19">250 characters</tspan>
+        </text>
+      </g>
+      <g id="Graphic_77">
+        <rect x="167.00001" y="301.43457" width="99.99998" height="62" fill="#cb4b16"/>
+        <rect x="167.00001" y="301.43457" width="99.99998" height="62" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".74999985"/>
+        <text transform="translate(172 324.41457)" fill="#fdf6e3">
+          <tspan font-family="Replica Std" font-size="13" font-weight="400" fill="#fdf6e3" x="9.314991" y="12">Course code</tspan>
+        </text>
+      </g>
+      <g id="Graphic_153">
+        <title>Tag : Violet</title>
+        <path d="M 313 312.93457 L 393 312.93457 C 398.52285 312.93457 403 317.41172 403 322.93457 L 403 341.93457 C 403 347.4574 398.52285 351.93457 393 351.93457 L 313 351.93457 C 307.47715 351.93457 303 347.4574 303 341.93457 L 303 322.93457 C 303 317.41172 307.47715 312.93457 313 312.93457 Z" fill="#859901"/>
+        <text transform="translate(313 322.43457)" fill="#fdf7e3">
+          <tspan font-family="Avenir Next" font-size="14" font-weight="400" fill="#fdf7e3" x="7.198" y="14">Salesforce</tspan>
+        </text>
+      </g>
+      <g id="Graphic_85">
+        <rect x="167.00001" y="448.43457" width="99.99998" height="62" fill="#cb4b16"/>
+        <rect x="167.00001" y="448.43457" width="99.99998" height="62" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".74999985"/>
+        <text transform="translate(172 471.41457)" fill="#fdf6e3">
+          <tspan font-family="Replica Std" font-size="13" font-weight="400" fill="#fdf6e3" x="29.98499" y="12">Topic</tspan>
+        </text>
+      </g>
+      <g id="Graphic_225">
+        <rect x="167.00001" y="607.4346" width="99.99998" height="62" fill="#cb4b16"/>
+        <rect x="167.00001" y="607.4346" width="99.99998" height="62" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".74999985"/>
+        <text transform="translate(172 630.4146)" fill="#fdf6e3">
+          <tspan font-family="Replica Std" font-size="13" font-weight="400" fill="#fdf6e3" x="2.0999909" y="12">Program image</tspan>
+        </text>
+      </g>
+      <g id="Graphic_227">
+        <title>Rectangle : Base2</title>
+        <rect x="322" y="675.9346" width="62" height="39" fill="#eee8d5"/>
+        <rect x="322" y="675.9346" width="62" height="39" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+        <text transform="translate(327 684.1735)" fill="#586e75">
+          <tspan font-family="Helvetica Neue" font-size="18" font-weight="500" fill="#586e75" x="2.321" y="18">Block</tspan>
+        </text>
+      </g>
+      <g id="Graphic_139">
+        <title>Tag : Cyan</title>
+        <path d="M 313 369.93457 L 393 369.93457 C 398.52285 369.93457 403 374.41172 403 379.93457 L 403 398.93457 C 403 404.4574 398.52285 408.93457 393 408.93457 L 313 408.93457 C 307.47715 408.93457 303 404.4574 303 398.93457 L 303 379.93457 C 303 374.41172 307.47715 369.93457 313 369.93457 Z" fill="#2aa198"/>
+        <text transform="translate(313 379.43457)" fill="#fdf7e3">
+          <tspan font-family="Avenir Next" font-size="14" font-weight="400" fill="#fdf7e3" x="4.454" y="14">Vocabulary</tspan>
+        </text>
+      </g>
+      <g id="Graphic_89">
+        <path d="M 477 117.43457 L 547 117.43457 C 555.28 117.43457 562 131.32257 562 148.43457 C 562 165.54657 555.28 179.43457 547 179.43457 L 477 179.43457 C 468.72 179.43457 462 165.54657 462 148.43457 C 462 131.32257 468.72 117.43457 477 117.43457 Z" fill="#b58900"/>
+        <path d="M 477 117.43457 L 547 117.43457 C 555.28 117.43457 562 131.32257 562 148.43457 C 562 165.54657 555.28 179.43457 547 179.43457 L 477 179.43457 C 468.72 179.43457 462 165.54657 462 148.43457 C 462 131.32257 468.72 117.43457 477 117.43457 Z" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+        <text transform="translate(477 133.47457)" fill="#fdf6e3">
+          <tspan font-family="Replica Std" font-size="12" font-weight="400" fill="#fdf6e3" x=".2" y="11">Disability and </tspan>
+          <tspan font-family="Replica Std" font-size="12" font-weight="400" fill="#fdf6e3" x="2.18" y="25.960002">Employment</tspan>
+        </text>
+      </g>
+      <g id="Graphic_93">
+        <path d="M 477 197.43457 L 547 197.43457 C 555.28 197.43457 562 211.32257 562 228.43457 C 562 245.54657 555.28 259.43457 547 259.43457 L 477 259.43457 C 468.72 259.43457 462 245.54657 462 228.43457 C 462 211.32257 468.72 197.43457 477 197.43457 Z" fill="#b58900"/>
+        <path d="M 477 197.43457 L 547 197.43457 C 555.28 197.43457 562 211.32257 562 228.43457 C 562 245.54657 555.28 259.43457 547 259.43457 L 477 259.43457 C 468.72 259.43457 462 245.54657 462 228.43457 C 462 211.32257 468.72 197.43457 477 197.43457 Z" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+        <text transform="translate(477 213.47457)" fill="#fdf6e3">
+          <tspan font-family="Replica Std" font-size="12" font-weight="400" fill="#fdf6e3" x=".86" y="11">Diversity and </tspan>
+          <tspan font-family="Replica Std" font-size="12" font-weight="400" fill="#fdf6e3" x="12.02" y="25.960002">Inclusion</tspan>
+        </text>
+      </g>
+      <g id="Graphic_91">
+        <path d="M 477 278.43457 L 547 278.43457 C 555.28 278.43457 562 292.32257 562 309.43457 C 562 326.54657 555.28 340.43457 547 340.43457 L 477 340.43457 C 468.72 340.43457 462 326.54657 462 309.43457 C 462 292.32257 468.72 278.43457 477 278.43457 Z" fill="#b58900"/>
+        <path d="M 477 278.43457 L 547 278.43457 C 555.28 278.43457 562 292.32257 562 309.43457 C 562 326.54657 555.28 340.43457 547 340.43457 L 477 340.43457 C 468.72 340.43457 462 326.54657 462 309.43457 C 462 292.32257 468.72 278.43457 477 278.43457 Z" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+        <text transform="translate(477 294.47457)" fill="#fdf6e3">
+          <tspan font-family="Replica Std" font-size="12" font-weight="400" fill="#fdf6e3" x="16.46" y="11">Human </tspan>
+          <tspan font-family="Replica Std" font-size="12" font-weight="400" fill="#fdf6e3" x="7.7" y="25.960002">Resources</tspan>
+        </text>
+      </g>
+      <g id="Graphic_95">
+        <path d="M 477 358.43457 L 547 358.43457 C 555.28 358.43457 562 372.32257 562 389.43457 C 562 406.54657 555.28 420.43457 547 420.43457 L 477 420.43457 C 468.72 420.43457 462 406.54657 462 389.43457 C 462 372.32257 468.72 358.43457 477 358.43457 Z" fill="#b58900"/>
+        <path d="M 477 358.43457 L 547 358.43457 C 555.28 358.43457 562 372.32257 562 389.43457 C 562 406.54657 555.28 420.43457 547 420.43457 L 477 420.43457 C 468.72 420.43457 462 406.54657 462 389.43457 C 462 372.32257 468.72 358.43457 477 358.43457 Z" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+        <text transform="translate(477 374.47457)" fill="#fdf6e3">
+          <tspan font-family="Replica Std" font-size="12" font-weight="400" fill="#fdf6e3" x="2.18" y="11">Employment </tspan>
+          <tspan font-family="Replica Std" font-size="12" font-weight="400" fill="#fdf6e3" x="24.44" y="25.960002">Law</tspan>
+        </text>
+      </g>
+      <g id="Graphic_97">
+        <path d="M 477 438.43457 L 547 438.43457 C 555.28 438.43457 562 452.32257 562 469.43457 C 562 486.5466 555.28 500.4346 547 500.4346 L 477 500.4346 C 468.72 500.4346 462 486.5466 462 469.43457 C 462 452.32257 468.72 438.43457 477 438.43457 Z" fill="#b58900"/>
+        <path d="M 477 438.43457 L 547 438.43457 C 555.28 438.43457 562 452.32257 562 469.43457 C 562 486.5466 555.28 500.4346 547 500.4346 L 477 500.4346 C 468.72 500.4346 462 486.5466 462 469.43457 C 462 452.32257 468.72 438.43457 477 438.43457 Z" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+        <text transform="translate(477 454.47457)" fill="#fdf6e3">
+          <tspan font-family="Replica Std" font-size="12" font-weight="400" fill="#fdf6e3" x="20.06" y="11">Labor </tspan>
+          <tspan font-family="Replica Std" font-size="12" font-weight="400" fill="#fdf6e3" x="10.82" y="25.960002">Relations</tspan>
+        </text>
+      </g>
+      <g id="Graphic_99">
+        <path d="M 477 518.4346 L 547 518.4346 C 555.28 518.4346 562 532.3226 562 549.4346 C 562 566.5466 555.28 580.4346 547 580.4346 L 477 580.4346 C 468.72 580.4346 462 566.5466 462 549.4346 C 462 532.3226 468.72 518.4346 477 518.4346 Z" fill="#b58900"/>
+        <path d="M 477 518.4346 L 547 518.4346 C 555.28 518.4346 562 532.3226 562 549.4346 C 562 566.5466 555.28 580.4346 547 580.4346 L 477 580.4346 C 468.72 580.4346 462 566.5466 462 549.4346 C 462 532.3226 468.72 518.4346 477 518.4346 Z" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+        <text transform="translate(477 519.93457)" fill="#fdf6e3">
+          <tspan font-family="Replica Std" font-size="10" font-weight="400" fill="#fdf6e3" x="11.3" y="9">Leadership </tspan>
+          <tspan font-family="Replica Std" font-size="10" font-weight="400" fill="#fdf6e3" x="6.25" y="20.800002">Development </tspan>
+          <tspan font-family="Replica Std" font-size="10" font-weight="400" fill="#fdf6e3" x="27.05" y="32.600003">and </tspan>
+          <tspan font-family="Replica Std" font-size="10" font-weight="400" fill="#fdf6e3" x="3.6" y="44.400005">Organizational </tspan>
+          <tspan font-family="Replica Std" font-size="10" font-weight="400" fill="#fdf6e3" x="18.25" y="56.200006">Change</tspan>
+        </text>
+      </g>
+      <g id="Graphic_87">
+        <path d="M 477 598.4346 L 547 598.4346 C 555.28 598.4346 562 612.3226 562 629.4346 C 562 646.5466 555.28 660.4346 547 660.4346 L 477 660.4346 C 468.72 660.4346 462 646.5466 462 629.4346 C 462 612.3226 468.72 598.4346 477 598.4346 Z" fill="#b58900"/>
+        <path d="M 477 598.4346 L 547 598.4346 C 555.28 598.4346 562 612.3226 562 629.4346 C 562 646.5466 555.28 660.4346 547 660.4346 L 477 660.4346 C 468.72 660.4346 462 646.5466 462 629.4346 C 462 612.3226 468.72 598.4346 477 598.4346 Z" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+        <text transform="translate(477 614.4746)" fill="#fdf6e3">
+          <tspan font-family="Replica Std" font-size="12" font-weight="400" fill="#fdf6e3" x="14.24" y="11">Conflict </tspan>
+          <tspan font-family="Replica Std" font-size="12" font-weight="400" fill="#fdf6e3" x="7.34" y="25.960002">Resolution</tspan>
+        </text>
+      </g>
+      <g id="Graphic_3">
+        <rect x="167.00001" y="686.4346" width="99.99998" height="62" fill="#cb4b16"/>
+        <rect x="167.00001" y="686.4346" width="99.99998" height="62" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".74999985"/>
+        <text transform="translate(172 709.4146)" fill="#fdf6e3">
+          <tspan font-family="Replica Std" font-size="13" font-weight="400" fill="#fdf6e3" x="11.394991" y="12">Listing intro</tspan>
+        </text>
+      </g>
+      <g id="Graphic_164">
+        <title>Tag : Violet</title>
+        <path d="M 313 732.9346 L 393 732.9346 C 398.52285 732.9346 403 737.4117 403 742.9346 L 403 761.9346 C 403 767.4574 398.52285 771.9346 393 771.9346 L 313 771.9346 C 307.47715 771.9346 303 767.4574 303 761.9346 L 303 742.9346 C 303 737.4117 307.47715 732.9346 313 732.9346 Z" fill="#6c71c4"/>
+        <text transform="translate(313 742.4346)" fill="#fdf7e3">
+          <tspan font-family="Avenir Next" font-size="14" font-weight="400" fill="#fdf7e3" x="27.113" y="14">Text</tspan>
+        </text>
+      </g>
+      <g id="Graphic_8">
+        <rect x="167.00001" y="766.4346" width="99.99998" height="62" fill="#cb4b16"/>
+        <rect x="167.00001" y="766.4346" width="99.99998" height="62" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".74999985"/>
+        <text transform="translate(172 781.3946)" fill="#fdf6e3">
+          <tspan font-family="Replica Std" font-size="13" font-weight="400" fill="#fdf6e3" x="28.94499" y="12">Short </tspan>
+          <tspan font-family="Replica Std" font-size="13" font-weight="400" fill="#fdf6e3" x="13.409991" y="28.040002">description</tspan>
+        </text>
+      </g>
+      <g id="Graphic_231">
+        <rect x="167.00001" y="846.4346" width="99.99998" height="62" fill="#cb4b16"/>
+        <rect x="167.00001" y="846.4346" width="99.99998" height="62" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".74999985"/>
+        <text transform="translate(172 861.3946)" fill="#fdf6e3">
+          <tspan font-family="Replica Std" font-size="13" font-weight="400" fill="#fdf6e3" x="9.054991" y="12">Prerequesite </tspan>
+          <tspan font-family="Replica Std" font-size="13" font-weight="400" fill="#fdf6e3" x="18.34999" y="28.040002">programs</tspan>
+        </text>
+      </g>
+      <g id="Graphic_235">
+        <title>Rectangle : Base2</title>
+        <rect x="322" y="857.9346" width="62" height="39" fill="#eee8d5"/>
+        <rect x="322" y="857.9346" width="62" height="39" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+        <text transform="translate(327 866.1735)" fill="#586e75">
+          <tspan font-family="Helvetica Neue" font-size="18" font-weight="500" fill="#586e75" x="2.321" y="18">Block</tspan>
+        </text>
+      </g>
+      <g id="Graphic_167">
+        <title>Tag : Violet</title>
+        <path d="M 313 790.9346 L 393 790.9346 C 398.52285 790.9346 403 795.4117 403 800.9346 L 403 819.9346 C 403 825.4574 398.52285 829.9346 393 829.9346 L 313 829.9346 C 307.47715 829.9346 303 825.4574 303 819.9346 L 303 800.9346 C 303 795.4117 307.47715 790.9346 313 790.9346 Z" fill="#6c71c4"/>
+        <text transform="translate(313 800.4346)" fill="#fdf7e3">
+          <tspan font-family="Avenir Next" font-size="14" font-weight="400" fill="#fdf7e3" x="27.113" y="14">Text</tspan>
+        </text>
+      </g>
+      <g id="Graphic_169">
+        <title>Heading : Secondary text</title>
+        <text transform="translate(444.27274 797.4346)" fill="#839496">
+          <tspan font-family="Avenir Next" font-size="18.921" font-weight="700" fill="#839496" x="0" y="19">250 Words</tspan>
+        </text>
+      </g>
+      <g id="Graphic_79">
+        <rect x="167.00001" y="926.4346" width="99.99998" height="62" fill="#cb4b16"/>
+        <rect x="167.00001" y="926.4346" width="99.99998" height="62" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".74999985"/>
+        <text transform="translate(172 949.4146)" fill="#fdf6e3">
+          <tspan font-family="Replica Std" font-size="13" font-weight="400" fill="#fdf6e3" x="30.17999" y="12">Price</tspan>
+        </text>
+      </g>
+      <g id="Graphic_171">
+        <title>Tag : Violet</title>
+        <path d="M 313 937.9346 L 393 937.9346 C 398.52285 937.9346 403 942.4117 403 947.9346 L 403 966.9346 C 403 972.4574 398.52285 976.9346 393 976.9346 L 313 976.9346 C 307.47715 976.9346 303 972.4574 303 966.9346 L 303 947.9346 C 303 942.4117 307.47715 937.9346 313 937.9346 Z" fill="#586e75"/>
+        <text transform="translate(313 947.4346)" fill="#fdf7e3">
+          <tspan font-family="Avenir Next" font-size="14" font-weight="400" fill="#fdf7e3" x="13.421" y="14">Number</tspan>
+        </text>
+      </g>
+      <g id="Graphic_173">
+        <title>Heading : Secondary text</title>
+        <text transform="translate(444.27274 944.4346)" fill="#839496">
+          <tspan font-family="Avenir Next" font-size="18.921" font-weight="700" fill="#839496" x="0" y="19">Currency</tspan>
+        </text>
+      </g>
+      <g id="Graphic_12">
+        <rect x="167.00001" y="1006.4346" width="99.99998" height="62" fill="#cb4b16"/>
+        <rect x="167.00001" y="1006.4346" width="99.99998" height="62" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".74999985"/>
+        <text transform="translate(172 1029.4146)" fill="#fdf6e3">
+          <tspan font-family="Replica Std" font-size="13" font-weight="400" fill="#fdf6e3" x="28.74999" y="12">Dates</tspan>
+        </text>
+      </g>
+      <g id="Graphic_175">
+        <title>Tag : Violet</title>
+        <path d="M 313 994.9346 L 393 994.9346 C 398.52285 994.9346 403 999.4117 403 1004.9346 L 403 1023.9346 C 403 1029.4574 398.52285 1033.9346 393 1033.9346 L 313 1033.9346 C 307.47715 1033.9346 303 1029.4574 303 1023.9346 L 303 1004.9346 C 303 999.4117 307.47715 994.9346 313 994.9346 Z" fill="#586e75"/>
+        <text transform="translate(313 1004.4346)" fill="#fdf7e3">
+          <tspan font-family="Avenir Next" font-size="14" font-weight="400" fill="#fdf7e3" x="19.658" y="14">Range</tspan>
+        </text>
+      </g>
+      <g id="Graphic_177">
+        <title>Heading : Secondary text</title>
+        <text transform="translate(444.27274 1001.4346)" fill="#839496">
+          <tspan font-family="Avenir Next" font-size="18.921" font-weight="700" fill="#839496" x="0" y="19">Date picker</tspan>
+        </text>
+      </g>
+      <g id="Graphic_103">
+        <rect x="167.00001" y="1087.4346" width="99.99998" height="62" fill="#cb4b16"/>
+        <rect x="167.00001" y="1087.4346" width="99.99998" height="62" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".74999985"/>
+        <text transform="translate(172 1110.4146)" fill="#fdf6e3">
+          <tspan font-family="Replica Std" font-size="13" font-weight="400" fill="#fdf6e3" x="3.009991" y="12">Program Video</tspan>
+        </text>
+      </g>
+      <g id="Graphic_213">
+        <title>Rectangle : Base2</title>
+        <rect x="322" y="1052.9346" width="62" height="39" fill="#eee8d5"/>
+        <rect x="322" y="1052.9346" width="62" height="39" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+        <text transform="translate(327 1061.1735)" fill="#586e75">
+          <tspan font-family="Helvetica Neue" font-size="18" font-weight="500" fill="#586e75" x="2.321" y="18">Block</tspan>
+        </text>
+      </g>
+      <g id="Graphic_215">
+        <title>Heading : Secondary text</title>
+        <text transform="translate(444.27274 1059.4346)" fill="#839496">
+          <tspan font-family="Avenir Next" font-size="18.921" font-weight="700" fill="#839496" x="0" y="19">Media player</tspan>
+        </text>
+      </g>
+      <g id="Graphic_10">
+        <rect x="167.00001" y="1167.4346" width="99.99998" height="62" fill="#cb4b16"/>
+        <rect x="167.00001" y="1167.4346" width="99.99998" height="62" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".74999985"/>
+        <text transform="translate(172 1190.4146)" fill="#fdf6e3">
+          <tspan font-family="Replica Std" font-size="13" font-weight="400" fill="#fdf6e3" x="30.43999" y="12">Body</tspan>
+        </text>
+      </g>
+      <g id="Graphic_181">
+        <title>Tag : Violet</title>
+        <path d="M 313 1178.9346 L 393 1178.9346 C 398.52285 1178.9346 403 1183.4117 403 1188.9346 L 403 1207.9346 C 403 1213.4574 398.52285 1217.9346 393 1217.9346 L 313 1217.9346 C 307.47715 1217.9346 303 1213.4574 303 1207.9346 L 303 1188.9346 C 303 1183.4117 307.47715 1178.9346 313 1178.9346 Z" fill="#6c71c4"/>
+        <text transform="translate(313 1188.4346)" fill="#fdf7e3">
+          <tspan font-family="Avenir Next" font-size="14" font-weight="400" fill="#fdf7e3" x="12.007" y="14">Rich Text</tspan>
+        </text>
+      </g>
+      <g id="Graphic_81">
+        <rect x="167.00001" y="1247.4346" width="99.99998" height="62" fill="#cb4b16"/>
+        <rect x="167.00001" y="1247.4346" width="99.99998" height="62" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".74999985"/>
+        <text transform="translate(172 1270.4146)" fill="#fdf6e3">
+          <tspan font-family="Replica Std" font-size="13" font-weight="400" fill="#fdf6e3" x="18.86999" y="12">Audience</tspan>
+        </text>
+      </g>
+      <g id="Graphic_183">
+        <title>Tag : Cyan</title>
+        <path d="M 313 1258.9346 L 393 1258.9346 C 398.52285 1258.9346 403 1263.4117 403 1268.9346 L 403 1287.9346 C 403 1293.4574 398.52285 1297.9346 393 1297.9346 L 313 1297.9346 C 307.47715 1297.9346 303 1293.4574 303 1287.9346 L 303 1268.9346 C 303 1263.4117 307.47715 1258.9346 313 1258.9346 Z" fill="#2aa198"/>
+        <text transform="translate(313 1268.4346)" fill="#fdf7e3">
+          <tspan font-family="Avenir Next" font-size="14" font-weight="400" fill="#fdf7e3" x="4.454" y="14">Vocabulary</tspan>
+        </text>
+      </g>
+      <g id="Graphic_107">
+        <rect x="167.00001" y="1327.4346" width="99.99998" height="62" fill="#cb4b16"/>
+        <rect x="167.00001" y="1327.4346" width="99.99998" height="62" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".74999985"/>
+        <text transform="translate(172 1350.4146)" fill="#fdf6e3">
+          <tspan font-family="Replica Std" font-size="13" font-weight="400" fill="#fdf6e3" x="21.40499" y="12">Sponsor</tspan>
+        </text>
+      </g>
+      <g id="Graphic_185">
+        <title>Tag : Cyan</title>
+        <path d="M 313 1315.9346 L 393 1315.9346 C 398.52285 1315.9346 403 1320.4117 403 1325.9346 L 403 1344.9346 C 403 1350.4574 398.52285 1354.9346 393 1354.9346 L 313 1354.9346 C 307.47715 1354.9346 303 1350.4574 303 1344.9346 L 303 1325.9346 C 303 1320.4117 307.47715 1315.9346 313 1315.9346 Z" fill="#2aa198"/>
+        <text transform="translate(313 1325.4346)" fill="#fdf7e3">
+          <tspan font-family="Avenir Next" font-size="14" font-weight="400" fill="#fdf7e3" x="4.454" y="14">Vocabulary</tspan>
+        </text>
+      </g>
+      <g id="Graphic_187">
+        <path d="M 477 1108.4346 L 547 1108.4346 C 555.28 1108.4346 562 1122.3226 562 1139.4346 C 562 1156.5466 555.28 1170.4346 547 1170.4346 L 477 1170.4346 C 468.72 1170.4346 462 1156.5466 462 1139.4346 C 462 1122.3226 468.72 1108.4346 477 1108.4346 Z" fill="#b58900"/>
+        <path d="M 477 1108.4346 L 547 1108.4346 C 555.28 1108.4346 562 1122.3226 562 1139.4346 C 562 1156.5466 555.28 1170.4346 547 1170.4346 L 477 1170.4346 C 468.72 1170.4346 462 1156.5466 462 1139.4346 C 462 1122.3226 468.72 1108.4346 477 1108.4346 Z" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+        <text transform="translate(477 1124.4746)" fill="#fdf6e3">
+          <tspan font-family="Replica Std" font-size="12" font-weight="400" fill="#fdf6e3" x="9.32" y="11">Executive </tspan>
+          <tspan font-family="Replica Std" font-size="12" font-weight="400" fill="#fdf6e3" x="8.72" y="25.960002">Education</tspan>
+        </text>
+      </g>
+      <g id="Graphic_190">
+        <path d="M 477 1188.4346 L 547 1188.4346 C 555.28 1188.4346 562 1202.3226 562 1219.4346 C 562 1236.5466 555.28 1250.4346 547 1250.4346 L 477 1250.4346 C 468.72 1250.4346 462 1236.5466 462 1219.4346 C 462 1202.3226 468.72 1188.4346 477 1188.4346 Z" fill="#b58900"/>
+        <path d="M 477 1188.4346 L 547 1188.4346 C 555.28 1188.4346 562 1202.3226 562 1219.4346 C 562 1236.5466 555.28 1250.4346 547 1250.4346 L 477 1250.4346 C 468.72 1250.4346 462 1236.5466 462 1219.4346 C 462 1202.3226 468.72 1188.4346 477 1188.4346 Z" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+        <text transform="translate(477 1204.4746)" fill="#fdf6e3">
+          <tspan font-family="Replica Std" font-size="12" font-weight="400" fill="#fdf6e3" x="6.02" y="11">Scheinman </tspan>
+          <tspan font-family="Replica Std" font-size="12" font-weight="400" fill="#fdf6e3" x="13.1" y="25.960002">Institute</tspan>
+        </text>
+      </g>
+      <g id="Graphic_192">
+        <path d="M 477 1268.4346 L 547 1268.4346 C 555.28 1268.4346 562 1282.3226 562 1299.4346 C 562 1316.5466 555.28 1330.4346 547 1330.4346 L 477 1330.4346 C 468.72 1330.4346 462 1316.5466 462 1299.4346 C 462 1282.3226 468.72 1268.4346 477 1268.4346 Z" fill="#b58900"/>
+        <path d="M 477 1268.4346 L 547 1268.4346 C 555.28 1268.4346 562 1282.3226 562 1299.4346 C 562 1316.5466 555.28 1330.4346 547 1330.4346 L 477 1330.4346 C 468.72 1330.4346 462 1316.5466 462 1299.4346 C 462 1282.3226 468.72 1268.4346 477 1268.4346 Z" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+        <text transform="translate(477 1291.9546)" fill="#fdf6e3">
+          <tspan font-family="Replica Std" font-size="12" font-weight="400" fill="#fdf6e3" x="15.14" y="11">CAHRS</tspan>
+        </text>
+      </g>
+      <g id="Graphic_194">
+        <path d="M 477 1348.4346 L 547 1348.4346 C 555.28 1348.4346 562 1362.3226 562 1379.4346 C 562 1396.5466 555.28 1410.4346 547 1410.4346 L 477 1410.4346 C 468.72 1410.4346 462 1396.5466 462 1379.4346 C 462 1362.3226 468.72 1348.4346 477 1348.4346 Z" fill="#b58900"/>
+        <path d="M 477 1348.4346 L 547 1348.4346 C 555.28 1348.4346 562 1362.3226 562 1379.4346 C 562 1396.5466 555.28 1410.4346 547 1410.4346 L 477 1410.4346 C 468.72 1410.4346 462 1396.5466 462 1379.4346 C 462 1362.3226 468.72 1348.4346 477 1348.4346 Z" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+        <text transform="translate(477 1364.4746)" fill="#fdf6e3">
+          <tspan font-family="Replica Std" font-size="12" font-weight="400" fill="#fdf6e3" x="15.98" y="11">Worker </tspan>
+          <tspan font-family="Replica Std" font-size="12" font-weight="400" fill="#fdf6e3" x="13.1" y="25.960002">Institute</tspan>
+        </text>
+      </g>
+      <g id="Graphic_196">
+        <path d="M 477 1429.4346 L 547 1429.4346 C 555.28 1429.4346 562 1443.3226 562 1460.4346 C 562 1477.5466 555.28 1491.4346 547 1491.4346 L 477 1491.4346 C 468.72 1491.4346 462 1477.5466 462 1460.4346 C 462 1443.3226 468.72 1429.4346 477 1429.4346 Z" fill="#b58900"/>
+        <path d="M 477 1429.4346 L 547 1429.4346 C 555.28 1429.4346 562 1443.3226 562 1460.4346 C 562 1477.5466 555.28 1491.4346 547 1491.4346 L 477 1491.4346 C 468.72 1491.4346 462 1477.5466 462 1460.4346 C 462 1443.3226 468.72 1429.4346 477 1429.4346 Z" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+        <text transform="translate(477 1445.4746)" fill="#fdf6e3">
+          <tspan font-family="Replica Std" font-size="12" font-weight="400" fill="#fdf6e3" x="5.12" y="11">Buffalo Co-</tspan>
+          <tspan font-family="Replica Std" font-size="12" font-weight="400" fill="#fdf6e3" x="25.52" y="25.960002">Lab</tspan>
+        </text>
+      </g>
+      <g id="Graphic_113">
+        <rect x="167.00001" y="1406.4346" width="99.99998" height="62" fill="#cb4b16"/>
+        <rect x="167.00001" y="1406.4346" width="99.99998" height="62" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".74999985"/>
+        <text transform="translate(172 1429.4146)" fill="#fdf6e3">
+          <tspan font-family="Replica Std" font-size="13" font-weight="400" fill="#fdf6e3" x="27.31999" y="12">Series</tspan>
+        </text>
+      </g>
+      <g id="Graphic_115">
+        <rect x="167.00001" y="1486.4346" width="99.99998" height="62" fill="#cb4b16"/>
+        <rect x="167.00001" y="1486.4346" width="99.99998" height="62" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".74999985"/>
+        <text transform="translate(172 1509.4146)" fill="#fdf6e3">
+          <tspan font-family="Replica Std" font-size="13" font-weight="400" fill="#fdf6e3" x="7.364991" y="12">Salesforce ID</tspan>
+        </text>
+      </g>
+      <g id="Graphic_197">
+        <title>Tag : Violet</title>
+        <path d="M 313 1497.9346 L 393 1497.9346 C 398.52285 1497.9346 403 1502.4117 403 1507.9346 L 403 1526.9346 C 403 1532.4574 398.52285 1536.9346 393 1536.9346 L 313 1536.9346 C 307.47715 1536.9346 303 1532.4574 303 1526.9346 L 303 1507.9346 C 303 1502.4117 307.47715 1497.9346 313 1497.9346 Z" fill="#859901"/>
+        <text transform="translate(313 1507.4346)" fill="#fdf7e3">
+          <tspan font-family="Avenir Next" font-size="14" font-weight="400" fill="#fdf7e3" x="7.198" y="14">Salesforce</tspan>
+        </text>
+      </g>
+      <g id="Graphic_109">
+        <rect x="167.00001" y="1566.4346" width="99.99998" height="62" fill="#cb4b16"/>
+        <rect x="167.00001" y="1566.4346" width="99.99998" height="62" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".74999985"/>
+        <text transform="translate(172 1573.3746)" fill="#fdf6e3">
+          <tspan font-family="Replica Std" font-size="13" font-weight="400" fill="#fdf6e3" x="14.189991" y="12">Continuing </tspan>
+          <tspan font-family="Replica Std" font-size="13" font-weight="400" fill="#fdf6e3" x="16.52999" y="28.040002">Education </tspan>
+          <tspan font-family="Replica Std" font-size="13" font-weight="400" fill="#fdf6e3" x="27.44999" y="44.080004">Credit</tspan>
+        </text>
+      </g>
+      <g id="Graphic_145">
+        <title>Tag : Cyan</title>
+        <path d="M 313 1600.9346 L 393 1600.9346 C 398.52285 1600.9346 403 1605.4117 403 1610.9346 L 403 1629.9346 C 403 1635.4574 398.52285 1639.9346 393 1639.9346 L 313 1639.9346 C 307.47715 1639.9346 303 1635.4574 303 1629.9346 L 303 1610.9346 C 303 1605.4117 307.47715 1600.9346 313 1600.9346 Z" fill="#2aa198"/>
+        <text transform="translate(313 1610.4346)" fill="#fdf7e3">
+          <tspan font-family="Avenir Next" font-size="14" font-weight="400" fill="#fdf7e3" x="4.454" y="14">Vocabulary</tspan>
+        </text>
+      </g>
+      <g id="Graphic_121">
+        <path d="M 477 1509.4346 L 547 1509.4346 C 555.28 1509.4346 562 1523.3226 562 1540.4346 C 562 1557.5466 555.28 1571.4346 547 1571.4346 L 477 1571.4346 C 468.72 1571.4346 462 1557.5466 462 1540.4346 C 462 1523.3226 468.72 1509.4346 477 1509.4346 Z" fill="#b58900"/>
+        <path d="M 477 1509.4346 L 547 1509.4346 C 555.28 1509.4346 562 1523.3226 562 1540.4346 C 562 1557.5466 555.28 1571.4346 547 1571.4346 L 477 1571.4346 C 468.72 1571.4346 462 1557.5466 462 1540.4346 C 462 1523.3226 468.72 1509.4346 477 1509.4346 Z" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+        <text transform="translate(477 1532.9546)" fill="#fdf6e3">
+          <tspan font-family="Replica Std" font-size="12" font-weight="400" fill="#fdf6e3" x="21.02" y="11">HRCI</tspan>
+        </text>
+      </g>
+      <g id="Graphic_119">
+        <path d="M 477 1589.4346 L 547 1589.4346 C 555.28 1589.4346 562 1603.3226 562 1620.4346 C 562 1637.5466 555.28 1651.4346 547 1651.4346 L 477 1651.4346 C 468.72 1651.4346 462 1637.5466 462 1620.4346 C 462 1603.3226 468.72 1589.4346 477 1589.4346 Z" fill="#b58900"/>
+        <path d="M 477 1589.4346 L 547 1589.4346 C 555.28 1589.4346 562 1603.3226 562 1620.4346 C 562 1637.5466 555.28 1651.4346 547 1651.4346 L 477 1651.4346 C 468.72 1651.4346 462 1637.5466 462 1620.4346 C 462 1603.3226 468.72 1589.4346 477 1589.4346 Z" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+        <text transform="translate(477 1612.9546)" fill="#fdf6e3">
+          <tspan font-family="Replica Std" font-size="12" font-weight="400" fill="#fdf6e3" x="23.96" y="11">CLE</tspan>
+        </text>
+      </g>
+      <g id="Graphic_117">
+        <path d="M 477 1669.4346 L 547 1669.4346 C 555.28 1669.4346 562 1683.3226 562 1700.4346 C 562 1717.5466 555.28 1731.4346 547 1731.4346 L 477 1731.4346 C 468.72 1731.4346 462 1717.5466 462 1700.4346 C 462 1683.3226 468.72 1669.4346 477 1669.4346 Z" fill="#b58900"/>
+        <path d="M 477 1669.4346 L 547 1669.4346 C 555.28 1669.4346 562 1683.3226 562 1700.4346 C 562 1717.5466 555.28 1731.4346 547 1731.4346 L 477 1731.4346 C 468.72 1731.4346 462 1717.5466 462 1700.4346 C 462 1683.3226 468.72 1669.4346 477 1669.4346 Z" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+        <text transform="translate(477 1692.9546)" fill="#fdf6e3">
+          <tspan font-family="Replica Std" font-size="12" font-weight="400" fill="#fdf6e3" x="23" y="11">CUE</tspan>
+        </text>
+      </g>
+      <g id="Graphic_83">
+        <rect x="167.00001" y="1646.4346" width="99.99998" height="62" fill="#cb4b16"/>
+        <rect x="167.00001" y="1646.4346" width="99.99998" height="62" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".74999985"/>
+        <text transform="translate(172 1669.4146)" fill="#fdf6e3">
+          <tspan font-family="Replica Std" font-size="13" font-weight="400" fill="#fdf6e3" x="21.40499" y="12">Benefits</tspan>
+        </text>
+      </g>
+      <g id="Graphic_199">
+        <title>Tag : Cyan</title>
+        <path d="M 313 1657.9346 L 393 1657.9346 C 398.52285 1657.9346 403 1662.4117 403 1667.9346 L 403 1686.9346 C 403 1692.4574 398.52285 1696.9346 393 1696.9346 L 313 1696.9346 C 307.47715 1696.9346 303 1692.4574 303 1686.9346 L 303 1667.9346 C 303 1662.4117 307.47715 1657.9346 313 1657.9346 Z" fill="#2aa198"/>
+        <text transform="translate(313 1667.4346)" fill="#fdf7e3">
+          <tspan font-family="Avenir Next" font-size="14" font-weight="400" fill="#fdf7e3" x="4.454" y="14">Vocabulary</tspan>
+        </text>
+      </g>
+      <g id="Graphic_105">
+        <rect x="167.00001" y="1732.4346" width="99.99998" height="62" fill="#cb4b16"/>
+        <rect x="167.00001" y="1732.4346" width="99.99998" height="62" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".74999985"/>
+        <text transform="translate(172 1747.3946)" fill="#fdf6e3">
+          <tspan font-family="Replica Std" font-size="13" font-weight="400" fill="#fdf6e3" x="20.68999" y="12">Program </tspan>
+          <tspan font-family="Replica Std" font-size="13" font-weight="400" fill="#fdf6e3" x="13.994991" y="28.040002">Instructors</tspan>
+        </text>
+      </g>
+      <g id="Graphic_211">
+        <title>Rectangle : Base2</title>
+        <rect x="322" y="1747.9346" width="62" height="39" fill="#eee8d5"/>
+        <rect x="322" y="1747.9346" width="62" height="39" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+        <text transform="translate(327 1756.1735)" fill="#586e75">
+          <tspan font-family="Helvetica Neue" font-size="18" font-weight="500" fill="#586e75" x="2.321" y="18">Block</tspan>
+        </text>
+      </g>
+      <g id="Graphic_205">
+        <title>Heading : Secondary text</title>
+        <text transform="translate(444.27274 1754.4346)" fill="#839496">
+          <tspan font-family="Avenir Next" font-size="18.921" font-weight="700" fill="#839496" x="0" y="19">Instructor Bio</tspan>
+        </text>
+      </g>
+      <g id="Graphic_66">
+        <title>Rectangle : Orange</title>
+        <rect x="167.00001" y="1878.4346" width="99.99998" height="62" fill="#cb4b16"/>
+        <rect x="167.00001" y="1878.4346" width="99.99998" height="62" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".74999985"/>
+        <text transform="translate(172 1901.4146)" fill="#fdf6e3">
+          <tspan font-family="Replica Std" font-size="13" font-weight="400" fill="#fdf6e3" x="24.52499" y="12">Format</tspan>
+        </text>
+      </g>
+      <g id="Graphic_147">
+        <title>Tag : Cyan</title>
+        <path d="M 313 1976.9346 L 393 1976.9346 C 398.52285 1976.9346 403 1981.4117 403 1986.9346 L 403 2005.9346 C 403 2011.4574 398.52285 2015.9346 393 2015.9346 L 313 2015.9346 C 307.47715 2015.9346 303 2011.4574 303 2005.9346 L 303 1986.9346 C 303 1981.4117 307.47715 1976.9346 313 1976.9346 Z" fill="#2aa198"/>
+        <text transform="translate(313 1986.4346)" fill="#fdf7e3">
+          <tspan font-family="Avenir Next" font-size="14" font-weight="400" fill="#fdf7e3" x="4.454" y="14">Vocabulary</tspan>
+        </text>
+      </g>
+      <g id="Graphic_45">
+        <title>Rectangle : Yellow</title>
+        <path d="M 477 1805.4346 L 547 1805.4346 C 555.28 1805.4346 562 1819.3226 562 1836.4346 C 562 1853.5466 555.28 1867.4346 547 1867.4346 L 477 1867.4346 C 468.72 1867.4346 462 1853.5466 462 1836.4346 C 462 1819.3226 468.72 1805.4346 477 1805.4346 Z" fill="#b58900"/>
+        <path d="M 477 1805.4346 L 547 1805.4346 C 555.28 1805.4346 562 1819.3226 562 1836.4346 C 562 1853.5466 555.28 1867.4346 547 1867.4346 L 477 1867.4346 C 468.72 1867.4346 462 1853.5466 462 1836.4346 C 462 1819.3226 468.72 1805.4346 477 1805.4346 Z" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+        <text transform="translate(477 1828.9546)" fill="#fdf6e3">
+          <tspan font-family="Replica Std" font-size="12" font-weight="400" fill="#fdf6e3" x="16.4" y="11">Course</tspan>
+        </text>
+      </g>
+      <g id="Graphic_43">
+        <title>Rectangle : Yellow</title>
+        <path d="M 477 1884.4346 L 547 1884.4346 C 555.28 1884.4346 562 1898.3226 562 1915.4346 C 562 1932.5466 555.28 1946.4346 547 1946.4346 L 477 1946.4346 C 468.72 1946.4346 462 1932.5466 462 1915.4346 C 462 1898.3226 468.72 1884.4346 477 1884.4346 Z" fill="#b58900"/>
+        <path d="M 477 1884.4346 L 547 1884.4346 C 555.28 1884.4346 562 1898.3226 562 1915.4346 C 562 1932.5466 555.28 1946.4346 547 1946.4346 L 477 1946.4346 C 468.72 1946.4346 462 1932.5466 462 1915.4346 C 462 1898.3226 468.72 1884.4346 477 1884.4346 Z" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+        <text transform="translate(477 1900.4746)" fill="#fdf6e3">
+          <tspan font-family="Replica Std" font-size="12" font-weight="400" fill="#fdf6e3" x="7.04" y="11">Certificate </tspan>
+          <tspan font-family="Replica Std" font-size="12" font-weight="400" fill="#fdf6e3" x="12.56" y="25.960002">Program</tspan>
+        </text>
+      </g>
+      <g id="Graphic_41">
+        <title>Rectangle : Yellow</title>
+        <path d="M 477 1965.4346 L 547 1965.4346 C 555.28 1965.4346 562 1979.3226 562 1996.4346 C 562 2013.5466 555.28 2027.4346 547 2027.4346 L 477 2027.4346 C 468.72 2027.4346 462 2013.5466 462 1996.4346 C 462 1979.3226 468.72 1965.4346 477 1965.4346 Z" fill="#b58900"/>
+        <path d="M 477 1965.4346 L 547 1965.4346 C 555.28 1965.4346 562 1979.3226 562 1996.4346 C 562 2013.5466 555.28 2027.4346 547 2027.4346 L 477 2027.4346 C 468.72 2027.4346 462 2013.5466 462 1996.4346 C 462 1979.3226 468.72 1965.4346 477 1965.4346 Z" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+        <text transform="translate(477 1981.4746)" fill="#fdf6e3">
+          <tspan font-family="Replica Std" font-size="12" font-weight="400" fill="#fdf6e3" x="18.8" y="11">Credit </tspan>
+          <tspan font-family="Replica Std" font-size="12" font-weight="400" fill="#fdf6e3" x="16.4" y="25.960002">Course</tspan>
+        </text>
+      </g>
+      <g id="Graphic_123">
+        <title>Rectangle : Yellow</title>
+        <path d="M 477 2045.4346 L 547 2045.4346 C 555.28 2045.4346 562 2059.3226 562 2076.4346 C 562 2093.5466 555.28 2107.4346 547 2107.4346 L 477 2107.4346 C 468.72 2107.4346 462 2093.5466 462 2076.4346 C 462 2059.3226 468.72 2045.4346 477 2045.4346 Z" fill="#b58900"/>
+        <path d="M 477 2045.4346 L 547 2045.4346 C 555.28 2045.4346 562 2059.3226 562 2076.4346 C 562 2093.5466 555.28 2107.4346 547 2107.4346 L 477 2107.4346 C 468.72 2107.4346 462 2093.5466 462 2076.4346 C 462 2059.3226 468.72 2045.4346 477 2045.4346 Z" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+        <text transform="translate(477 2068.9546)" fill="#fdf6e3">
+          <tspan font-family="Replica Std" font-size="12" font-weight="400" fill="#fdf6e3" x="18.14" y="11">Forum</tspan>
+        </text>
+      </g>
+      <g id="Graphic_38">
+        <title>Rectangle : Yellow</title>
+        <path d="M 477 2125.4346 L 547 2125.4346 C 555.28 2125.4346 562 2139.3226 562 2156.4346 C 562 2173.5466 555.28 2187.4346 547 2187.4346 L 477 2187.4346 C 468.72 2187.4346 462 2173.5466 462 2156.4346 C 462 2139.3226 468.72 2125.4346 477 2125.4346 Z" fill="#b58900"/>
+        <path d="M 477 2125.4346 L 547 2125.4346 C 555.28 2125.4346 562 2139.3226 562 2156.4346 C 562 2173.5466 555.28 2187.4346 547 2187.4346 L 477 2187.4346 C 468.72 2187.4346 462 2173.5466 462 2156.4346 C 462 2139.3226 468.72 2125.4346 477 2125.4346 Z" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+        <text transform="translate(477 2148.9546)" fill="#fdf6e3">
+          <tspan font-family="Replica Std" font-size="12" font-weight="400" fill="#fdf6e3" x="13.52" y="11">Webinar</tspan>
+        </text>
+      </g>
+      <g id="Graphic_125">
+        <title>Rectangle : Yellow</title>
+        <path d="M 477 2205.4346 L 547 2205.4346 C 555.28 2205.4346 562 2219.3226 562 2236.4346 C 562 2253.5466 555.28 2267.4346 547 2267.4346 L 477 2267.4346 C 468.72 2267.4346 462 2253.5466 462 2236.4346 C 462 2219.3226 468.72 2205.4346 477 2205.4346 Z" fill="#b58900"/>
+        <path d="M 477 2205.4346 L 547 2205.4346 C 555.28 2205.4346 562 2219.3226 562 2236.4346 C 562 2253.5466 555.28 2267.4346 547 2267.4346 L 477 2267.4346 C 468.72 2267.4346 462 2253.5466 462 2236.4346 C 462 2219.3226 468.72 2205.4346 477 2205.4346 Z" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+        <text transform="translate(477 2228.9546)" fill="#fdf6e3">
+          <tspan font-family="Replica Std" font-size="12" font-weight="400" fill="#fdf6e3" x="8.66" y="11">Workshop</tspan>
+        </text>
+      </g>
+      <g id="Graphic_72">
+        <title>Rectangle : Orange</title>
+        <rect x="167.00001" y="2092.4346" width="99.99998" height="62" fill="#cb4b16"/>
+        <rect x="167.00001" y="2092.4346" width="99.99998" height="62" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".74999985"/>
+        <text transform="translate(172 2115.4146)" fill="#fdf6e3">
+          <tspan font-family="Replica Std" font-size="13" font-weight="400" fill="#fdf6e3" x="22.05499" y="12">Delivery</tspan>
+        </text>
+      </g>
+      <g id="Graphic_101">
+        <rect x="167.00001" y="2441.4346" width="99.99998" height="62" fill="#cb4b16"/>
+        <rect x="167.00001" y="2441.4346" width="99.99998" height="62" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".74999985"/>
+        <text transform="translate(172 2456.3946)" fill="#fdf6e3">
+          <tspan font-family="Replica Std" font-size="13" font-weight="400" fill="#fdf6e3" x="23.41999" y="12">Related </tspan>
+          <tspan font-family="Replica Std" font-size="13" font-weight="400" fill="#fdf6e3" x="17.69999" y="28.040002">Programs</tspan>
+        </text>
+      </g>
+      <g id="Graphic_209">
+        <title>Rectangle : Base2</title>
+        <rect x="322" y="2524.9346" width="62" height="39" fill="#eee8d5"/>
+        <rect x="322" y="2524.9346" width="62" height="39" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+        <text transform="translate(327 2533.1735)" fill="#586e75">
+          <tspan font-family="Helvetica Neue" font-size="18" font-weight="500" fill="#586e75" x="2.321" y="18">Block</tspan>
+        </text>
+      </g>
+      <g id="Graphic_207">
+        <title>Heading : Secondary text</title>
+        <text transform="translate(444.27274 2531.4346)" fill="#839496">
+          <tspan font-family="Avenir Next" font-size="18.921" font-weight="700" fill="#839496" x="0" y="19">Program picker</tspan>
+        </text>
+      </g>
+      <g id="Graphic_149">
+        <title>Tag : Cyan</title>
+        <path d="M 313 2375.9346 L 393 2375.9346 C 398.52285 2375.9346 403 2380.4117 403 2385.9346 L 403 2404.9346 C 403 2410.4574 398.52285 2414.9346 393 2414.9346 L 313 2414.9346 C 307.47715 2414.9346 303 2410.4574 303 2404.9346 L 303 2385.9346 C 303 2380.4117 307.47715 2375.9346 313 2375.9346 Z" fill="#2aa198"/>
+        <text transform="translate(313 2385.4346)" fill="#fdf7e3">
+          <tspan font-family="Avenir Next" font-size="14" font-weight="400" fill="#fdf7e3" x="4.454" y="14">Vocabulary</tspan>
+        </text>
+      </g>
+      <g id="Graphic_48">
+        <title>Rectangle : Yellow</title>
+        <path d="M 477 2284.4346 L 547 2284.4346 C 555.28 2284.4346 562 2298.3226 562 2315.4346 C 562 2332.5466 555.28 2346.4346 547 2346.4346 L 477 2346.4346 C 468.72 2346.4346 462 2332.5466 462 2315.4346 C 462 2298.3226 468.72 2284.4346 477 2284.4346 Z" fill="#b58900"/>
+        <path d="M 477 2284.4346 L 547 2284.4346 C 555.28 2284.4346 562 2298.3226 562 2315.4346 C 562 2332.5466 555.28 2346.4346 547 2346.4346 L 477 2346.4346 C 468.72 2346.4346 462 2332.5466 462 2315.4346 C 462 2298.3226 468.72 2284.4346 477 2284.4346 Z" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+        <text transform="translate(477 2307.9546)" fill="#fdf6e3">
+          <tspan font-family="Replica Std" font-size="12" font-weight="400" fill="#fdf6e3" x="9.92" y="11">In-person</tspan>
+        </text>
+      </g>
+      <g id="Graphic_51">
+        <title>Rectangle : Yellow</title>
+        <path d="M 477 2364.4346 L 547 2364.4346 C 555.28 2364.4346 562 2378.3226 562 2395.4346 C 562 2412.5466 555.28 2426.4346 547 2426.4346 L 477 2426.4346 C 468.72 2426.4346 462 2412.5466 462 2395.4346 C 462 2378.3226 468.72 2364.4346 477 2364.4346 Z" fill="#b58900"/>
+        <path d="M 477 2364.4346 L 547 2364.4346 C 555.28 2364.4346 562 2378.3226 562 2395.4346 C 562 2412.5466 555.28 2426.4346 547 2426.4346 L 477 2426.4346 C 468.72 2426.4346 462 2412.5466 462 2395.4346 C 462 2378.3226 468.72 2364.4346 477 2364.4346 Z" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+        <text transform="translate(477 2387.9546)" fill="#fdf6e3">
+          <tspan font-family="Replica Std" font-size="12" font-weight="400" fill="#fdf6e3" x="18.32" y="11">Online</tspan>
+        </text>
+      </g>
+      <g id="Graphic_53">
+        <title>Rectangle : Yellow</title>
+        <path d="M 477 2444.4346 L 547 2444.4346 C 555.28 2444.4346 562 2458.3226 562 2475.4346 C 562 2492.5466 555.28 2506.4346 547 2506.4346 L 477 2506.4346 C 468.72 2506.4346 462 2492.5466 462 2475.4346 C 462 2458.3226 468.72 2444.4346 477 2444.4346 Z" fill="#b58900"/>
+        <path d="M 477 2444.4346 L 547 2444.4346 C 555.28 2444.4346 562 2458.3226 562 2475.4346 C 562 2492.5466 555.28 2506.4346 547 2506.4346 L 477 2506.4346 C 468.72 2506.4346 462 2492.5466 462 2475.4346 C 462 2458.3226 468.72 2444.4346 477 2444.4346 Z" stroke="#657b83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+        <text transform="translate(477 2467.9546)" fill="#fdf6e3">
+          <tspan font-family="Replica Std" font-size="12" font-weight="400" fill="#fdf6e3" x="13.76" y="11">Blended</tspan>
+        </text>
+      </g>
+      <g id="Graphic_218">
+        <title>Heading : Secondary text</title>
+        <clipPath id="clip_path">
+          <rect x="0" y="0" width="100" height="99.99996"/>
+        </clipPath>
+        <text clip-path="url(#clip_path)" transform="translate(378.9599 296.43457)" fill="#fffffc">
+          <tspan font-family="Avenir Next" font-size="51.4289" font-weight="700" fill="#fffffc" x="0" y="51">?</tspan>
+        </text>
+      </g>
+      <g id="Line_228">
+        <line x1="384" y1="695.6295" x2="429.11714" y2="695.9133" marker-end="url(#FilledArrow_Marker)" stroke="#93a1a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_226">
+        <title>Heading : Secondary text</title>
+        <text transform="translate(444.27274 683.4346)" fill="#839496">
+          <tspan font-family="Avenir Next" font-size="18.921" font-weight="700" fill="#839496" x="0" y="19">Image</tspan>
+        </text>
+      </g>
+      <g id="Graphic_234">
+        <title>Heading : Secondary text</title>
+        <text transform="translate(444.27274 864.4346)" fill="#839496">
+          <tspan font-family="Avenir Next" font-size="18.921" font-weight="700" fill="#839496" x="0" y="19">Program picker</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
